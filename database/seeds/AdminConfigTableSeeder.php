@@ -21,28 +21,28 @@ class AdminConfigTableSeeder extends Seeder
             array (
                 'id' => 1,
                 'name' => 'admin_name',
-                'value' => 'hui-ho',
+                'value' => 'xiaoyz',
                 'description' => '站长姓名',
-                'created_at' => '2019-08-23 06:04:34',
-                'updated_at' => '2019-08-23 06:05:08',
+                'created_at' => '2020-10-19 18:04:34',
+                'updated_at' => '2020-10-19 18:05:08',
             ),
             1 => 
             array (
                 'id' => 2,
                 'name' => 'admin_email',
-                'value' => 'hui-ho@outlook.com',
+                'value' => 'phpxiaoyz@163.com',
                 'description' => '站长邮箱',
-                'created_at' => '2019-08-23 06:05:00',
-                'updated_at' => '2019-08-23 06:05:00',
+                'created_at' => '2020-10-19 18:04:34',
+                'updated_at' => '2020-10-19 18:05:08',
             ),
             2 => 
             array (
                 'id' => 3,
                 'name' => 'icp_record',
-                'value' => '粤ICP备XXXXXXXXXXXXX号',
+                'value' => '豫ICP备17046531号',
                 'description' => 'ICP备案号',
-                'created_at' => '2019-08-23 06:06:57',
-                'updated_at' => '2019-08-23 06:06:57',
+                'created_at' => '2020-10-19 18:04:34',
+                'updated_at' => '2020-10-19 18:05:08',
             ),
         ));
         
